@@ -1,7 +1,8 @@
 #!/bin/bash
 
-sudo yum install zsh -y
 cp -f .zshrc ~/.zshrc
+sudo yum install zsh -y
+
 
 main() {
   # Use colors, but only if connected to a terminal, and that terminal
