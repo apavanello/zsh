@@ -1,7 +1,7 @@
 #!/bin/bash
 
 sudo yum install zsh -y
-cp -f .zshcr ~/.zshcr
+cp -f .zshrc ~/.zshrc
 
 main() {
   # Use colors, but only if connected to a terminal, and that terminal
