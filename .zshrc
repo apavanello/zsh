@@ -67,6 +67,7 @@ plugins=(
   dirhistory
   httpie
   jsontools
+  sudo
   yum  
   )
 
